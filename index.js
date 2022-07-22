@@ -7,6 +7,6 @@ app.get("/",(req,res)=>{
     res.json("hai buddy welcome...!")
 })
 
-app.listen(9090,()=>{
+app.listen(3000,()=>{
     console.log("its working...!")
 })
